@@ -4,12 +4,17 @@ Use react query for querying data from [Coingecko](https://api.coingecko.com/) A
 
 ### Demo
 
-<img src="shot/shot1.jpeg" alt="shot1" />
+<img src="shot/cryptoapp.png" alt="shot" />
 
 <br />
 <br />
 
-<img src="shot/shot2.jpeg" alt="shot2" />
+<img src="shot/shot1.png" alt="shot1" />
+
+<br />
+<br />
+
+<img src="shot/shot2.png" alt="shot2" />
 
 <br />
 
